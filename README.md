@@ -1,7 +1,7 @@
 [![MasterHead](https://www.epmacau.edu.mo/wp-content/uploads/2020/10/under-development.gif)](https://amankush23.io)
 <h1 align="center">Hi 👋, I'm Aman Kushwah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankush23&label=Profile%20views&color=0e75b6&style=flat" alt="amankush23" /> </p>
 
