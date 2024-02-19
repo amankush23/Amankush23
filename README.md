@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ARDUINO PROJECTS**
+- 🔭 I’m currently working on **Python_Beginner_Projects**
 
 - 🌱 I’m currently learning **PYTHON,HTML,CSS,JAVASCRIPT,PHP,IOT PROGRAMMING**
 
