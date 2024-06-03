@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python_Beginner_Projects**
+- 🔭 I’m currently working on **Python_Beginner_Projects, SMART PLANT MONITORING SYSTEM**
 
-- 🌱 I’m currently learning **PYTHON,HTML,CSS,JAVASCRIPT,PHP,IOT PROGRAMMING**
+- 🌱 I’m currently learning **PYTHON,HTML,CSS,JAVASCRIPT,PHP,IOT PROGRAMMING, JAVA PROGRAMMING**
 
-- 💬 Ask me about **PYTHON**
+- 💬 Ask me about **PYTHON AND JAVA**
 
 - 📫 How to reach me **kushwahaman088@gmail.com**
 
