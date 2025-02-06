@@ -9,20 +9,20 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-🛠️ Projects I've Worked On:<br>
+🛠️ Projects I've Worked On:<br><br>
 SMART PLANT MONITORING SYSTEM 🌿 – IoT-based system to monitor plant health<br>
 Deepfake Detection 🎭 – AI-powered tool to detect fake videos<br>
 Web App: Image-to-Text Extractor 🖼️ → 📜 – OCR-based tool with an interactive quiz & to-do list<br>
-Hackathon Projects 💡 – Innovating with Python, ML, and web technologies<br>
+Hackathon Projects 💡 – Innovating with Python, ML, and web technologies<br><br>
 📚 Currently Exploring:<br>
 🔹 Python | Java | JavaScript | PHP | HTML & CSS<br>
-🔹 IoT Programming | DSA | Machine Learning | AI<br>
+🔹 IoT Programming | DSA | Machine Learning | AI<br><br>
 
 💡 Let's Talk About:<br>
-💬 Python, Java, Web Development, Machine Learning, AI, and more!<br>
+💬 Python, Java, Web Development, Machine Learning, AI, and more!<br><br>
 
 📩 Connect with Me:<br>
-📧 Email: kushwahaman088@gmail.com<br>
+📧 Email: kushwahaman088@gmail.com<br><br>
 
 👀 Looking for an enthusiastic developer? Let’s collaborate! 🚀<br>
 
