@@ -33,6 +33,7 @@ Hackathon Projects 💡 – Innovating with Python, ML, and web technologies<br>
 <a href="https://instagram.com/aman_kushwah_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_kushwah_02" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/peaceful music editz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peaceful music editz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@aman_kushwah_cs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aman_kushwah_cs2" height="30" width="40" /></a>
+  <a href="https:leetcode.com/u/aman_kush23" target="blank"><img align="center" src="https://assets.leetcode.com/contest/LeetCode/company_logo" alt="@aman_kush23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
