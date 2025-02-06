@@ -1,19 +1,30 @@
 [![MasterHead](https://www.epmacau.edu.mo/wp-content/uploads/2020/10/under-development.gif)](https://amankush23.io)
 <h1 align="center">Hi 👋, I'm Aman Kushwah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Passionate about software development, AI, and IoT, I love building innovative solutions that solve real-world problems.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankush23&label=Profile%20views&color=0e75b6&style=flat" alt="amankush23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python_Beginner_Projects, SMART PLANT MONITORING SYSTEM**
 
-- 🌱 I’m currently learning **PYTHON,HTML,CSS,JAVASCRIPT,PHP,IOT PROGRAMMING, JAVA PROGRAMMING**
+🛠️ Projects I've Worked On:
+SMART PLANT MONITORING SYSTEM 🌿 – IoT-based system to monitor plant health
+Deepfake Detection 🎭 – AI-powered tool to detect fake videos
+Web App: Image-to-Text Extractor 🖼️ → 📜 – OCR-based tool with an interactive quiz & to-do list
+Hackathon Projects 💡 – Innovating with Python, ML, and web technologies
+📚 Currently Exploring:
+🔹 Python | Java | JavaScript | PHP | HTML & CSS
+🔹 IoT Programming | DSA | Machine Learning | AI
 
-- 💬 Ask me about **PYTHON AND JAVA**
+💡 Let's Talk About:
+💬 Python, Java, Web Development, Machine Learning, AI, and more!
 
-- 📫 How to reach me **kushwahaman088@gmail.com**
+📩 Connect with Me:
+📧 Email: kushwahaman088@gmail.com
+
+👀 Looking for an enthusiastic developer? Let’s collaborate! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
